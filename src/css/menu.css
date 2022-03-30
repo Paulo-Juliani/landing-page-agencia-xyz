@@ -88,6 +88,10 @@
         width: 200px;
         background-color: #fff;
         padding: 20px;
+        border-top-left-radius: 30px;
+        border-bottom-right-radius: 30px;
+        border-style: groove;
+        border-color: rgb(255, 166, 134) rgb(145, 145, 145) rgb(145, 145, 145) rgb(255, 166, 134);
     }
 
     .header input:checked ~ ul{
